@@ -24,7 +24,7 @@ body {
     /* Căn giữa theo trục ngang */
     justify-content: center;
     /* Căn giữa theo trục dọc */
-    background: url('/happy2010/img/img_1.jpg') no-repeat center center fixed;
+    background: url('../img/img_1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
