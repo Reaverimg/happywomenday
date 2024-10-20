@@ -24,7 +24,7 @@ body {
     /* Căn giữa theo trục ngang */
     justify-content: center;
     /* Căn giữa theo trục dọc */
-    background: url('/happywomenday/img/img_1.jpg') no-repeat center center fixed;
+    background: url('https://reaverimg.github.io/happywomenday/img/img_1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
